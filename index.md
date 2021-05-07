@@ -6,7 +6,10 @@
 
 [Here](files/hw1.html) is USDTRY analysis with Google Trends and 3 datasets from EVDS.  
 [Here](files/hw1.ipynb) is the .ipynb notebook file.  
-  
+
+## Homework #2
+[Here](files/hw2.html) is Clothing and Footwear CPI Time Series Analysis and Forecasting with datasets from EVDS.  
+[Here](files/hw2.ipynb) is the .ipynb notebook file.    
 
 
 
