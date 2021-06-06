@@ -8,8 +8,16 @@
 [Here](files/hw1.ipynb) is the .ipynb notebook file.  
 
 ## Homework #2
+
 [Here](files/hw2.html) is Clothing and Footwear CPI Time Series Analysis and Forecasting with datasets from EVDS.  
-[Here](files/hw2.ipynb) is the .ipynb notebook file.    
+[Here](files/hw2.ipynb) is the .ipynb notebook file.  
+
+## Homework #3
+
+[Here](files/hw3.html) is Hourly Electricity Consumption Data Analysis and Building an ARIMA Model  
+[Here](files/hw3.ipynb) is the .ipynb notebook file.  
+
+
 
 
 
