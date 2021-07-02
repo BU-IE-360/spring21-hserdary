@@ -18,11 +18,11 @@
 [Here](files/hw3.ipynb) is the .ipynb notebook file.  
 
 ## Homework #4&5
- 
+  
 
 ## Project
-[Here](files/project.html) is forecasting the future sales of Trendyol products. 
-[Here](files/project.ipynb) is the .ipynb notebook file. 
+[Here](files/project.html) is forecasting the future sales of Trendyol products.  
+[Here](files/project.ipynb) is the .ipynb notebook file.  
 
 
 
