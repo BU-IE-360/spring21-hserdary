@@ -14,13 +14,16 @@
 
 ## Homework #3
 
-[Here](files/hw3.html) is Hourly Electricity Consumption Data Analysis and Building an ARIMA Model  
+[Here](files/hw3.html) is Hourly Electricity Consumption Data Analysis and Building an ARIMA Model.  
 [Here](files/hw3.ipynb) is the .ipynb notebook file.  
 
 ## Homework #4&5
-  
+
+[Here](files/hw4.html) is the analysis and ARIMA models for Trendyol's products.  
+[Here](files/hw4.ipynb) is the .ipynb notebook file.  
 
 ## Project
+
 [Here](files/project.html) is forecasting the future sales of Trendyol products.  
 [Here](files/project.ipynb) is the .ipynb notebook file.  
 
